@@ -40,3 +40,5 @@ cd C:\ArchWSL
 ```
 .\Arch.exe
 ```
+
+[Download PDF](./ArchWSL-Tutorial.pdf)
