@@ -41,4 +41,7 @@ cd C:\ArchWSL
 .\Arch.exe
 ```
 
-[Download PDF](./ArchWSL-Tutorial.pdf)
+[Lihat PDF](./ArchWSL-Tutorial.pdf)
+[Download PDF](https://raw.githubusercontent.com/zidan-idz/ArchWSL-Tutorial/main/ArchWSL-Tutorial.pdf)
+
+
